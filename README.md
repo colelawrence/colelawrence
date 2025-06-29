@@ -11,7 +11,6 @@ I shouldn't have to follow your read-only screen share on a second monitor in or
 ### Around the web
 
 * 💾 [portfolio](https://www.colelawrence.com)
-* 📓 [blog](https://refactorordie.com)
 * 📧 [cole@colelawrence.com](mailto:cole@colelawrence.com)
 
 <a href="https://hachyderm.io/@colel" rel="me"/>
